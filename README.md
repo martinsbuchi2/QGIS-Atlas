@@ -46,8 +46,8 @@ QGIS Atlas is a powerful tool for automating the creation of map series by gener
     - Use QGIS’s Python API (PyQGIS) to script the entire process for large-scale or repeatable tasks.
 
 
-![page1](/QGIS-Atlas/Images/output_1.png)
-_fig. 1 One of the psges of the automated map report_
+![/QGIS-Atlas/Images/output_1.png](https://github.com/martinsbuchi2/QGIS-Atlas/blob/main/Assets/Images/output_1.png)
+_fig. 1 One of the pages of the automated map report_
 
 # PDF Compression Script
 
