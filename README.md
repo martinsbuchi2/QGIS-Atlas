@@ -46,6 +46,9 @@ QGIS Atlas is a powerful tool for automating the creation of map series by gener
     -Use QGIS’s Python API (PyQGIS) to script the entire process for large-scale or repeatable tasks.
 
 
+![page 1](/Images/output_1.png)
+_fig. 1 One of the psges of the automated map report_
+
 # PDF Compression Script
 
 This repository contains Python scripts for compressing and optimizing PDF files. The scripts reduce file sizes by removing unnecessary data, optimizing images, and adjusting resolution, making it ideal for sharing or archiving large PDF files.
